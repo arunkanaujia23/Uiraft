@@ -61,7 +61,7 @@ const App = () => {
             }}
           >
           <Row>
-            <Col lg={18} md={24} sm={24} xs={24}>12</Col>
+            <Col lg={18} md={24} sm={24} xs={24}>12</Col> 
             <Col lg={6} md={24} sm={24} xs={24}>12</Col>
           </Row>
           </div>
